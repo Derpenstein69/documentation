@@ -161,11 +161,6 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'doc',
-          id: 'product-highlights-and-benefits/privacy-security-data',
-          label: 'Privacy & Security',
-        },
-        {
-          type: 'doc',
           id: 'product-highlights-and-benefits/sync-across-multiple-devices-using-github',
           label: 'Sync Across Devices with GitHub',
         },
@@ -215,6 +210,11 @@ const sidebars: SidebarsConfig = {
           type: 'doc',
           id: 'support',
           label: 'Support',
+        },
+        {
+          type: 'doc',
+          id: 'security-and-privacy',
+          label: 'Security & Privacy',
         },
         {
           type: 'doc',
